@@ -32,7 +32,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Class SE1166"
+            android:text="Class Math"
             android:textSize="40px"/>
         <TextView
             android:layout_width="match_parent"
@@ -57,7 +57,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="Class B"
+                android:text="Class Chemistry"
                 android:textSize="40px"/>
             <TextView
                 android:layout_width="match_parent"
@@ -82,7 +82,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="Class C"
+                android:text="Class Physics"
                 android:textSize="40px"/>
             <TextView
                 android:layout_width="match_parent"
