@@ -32,7 +32,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Class A"
+            android:text="Class SE1166"
             android:textSize="40px"/>
         <TextView
             android:layout_width="match_parent"
